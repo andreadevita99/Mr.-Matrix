@@ -1,29 +1,10 @@
 # Mr. Matrix
 
-A terminal-based Matrix rain animation with a hacking-style boot sequence.  
-This project is a tribute to two iconic works: the TV series **Mr. Robot** and the movie **Matrix**.
+A terminal-based Matrix rain animation with a hacking-style boot sequence.
 
-## Features
-
-- Typewriter‑effect startup (`<Hello Friend/>`, countdown 1…5);
-- Pseudo‑random command/output pairs with alternating prompts (`$`, `#`, `root@fsociety:~$`);
-- Classic green Matrix character rain;
-- Every minute: a red‑colored phrase;
-- Exit message.
-
-## Requirements
-
-- Python 3.6+
-- Works on Linux, macOS, Windows
-
-## How to run
-
-1. Save the script as `mr-matrix.py`;
-3. Open a terminal in the script's folder;
-4. Run the command:
-   `python mr-matrix.py` or `python3 mr-matrix.py`;
-5. Enjoy!
-6. To stop the script's animation, press `Ctrl+C`.
+This project is a tribute to two iconic works:
+ - the TV series **Mr. Robot**;
+ - and the movie **Matrix**.
 
 ## Author
 
