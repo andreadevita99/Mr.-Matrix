@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# matrix_reloaded.py
 
 import random
 import time
